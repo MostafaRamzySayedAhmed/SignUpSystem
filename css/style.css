@@ -1,0 +1,62 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background-color: #F6F6F6
+}
+
+.container
+{
+	width: 1000px;
+	margin: 0px auto;
+	background-color: #FFF;
+	padding: 20px;
+	border: 1px solid #CCC;
+	border-top: 0px;
+	height: 500px
+}
+
+.form
+{
+	width: 180px;
+	margin: 0px auto
+}
+
+.heading
+{
+	margin-left: 15px;
+	color: #3F3232;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-style: italic;
+	font-weight: 900
+}
+
+.field
+{
+	height: 28px;
+	padding: 3px;
+	outline: none;
+	border: 1px solid #CCC
+}
+
+.field:focus
+{
+	box-shadow: 0px 0px 3px 1px #000;
+	transition: 0.2s linear
+}
+
+.error
+{
+	padding-left: 15px;
+	position: absolute
+}
+
+.submit
+{
+	width: 178px;
+	height: 40px;
+	font-weight: bold;
+	position: absolute;
+	top: 480px;
+	left: 580px
+}
