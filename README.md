@@ -6,4 +6,11 @@ It is a Simple Sign Up Page Provides Full Validation, Authentication & Authoriza
 * It Provides Full Validation, Authentication & Authorization for All Input Fields.
 
 # The Used Technologies
-HTML, HTML5, CSS, CSS3, JavaScript, jQuery, PHP & MySQL.
+* HTML
+* HTML5
+* CSS
+* CSS3
+* JavaScript
+* jQuery
+* PHP
+* MySQL
