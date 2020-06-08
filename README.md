@@ -1,4 +1,4 @@
-# SignUpSystem
+# Sign Up System
 It is a Simple Sign Up Page Provides Full Validation, Authentication & Authorization for all of the Input Fields Including FirstName, LastName, E-Mail, Password, Gender and Website
 
 # The Features
