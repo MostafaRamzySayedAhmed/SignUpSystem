@@ -15,4 +15,3 @@ It's a Simple Sign Up Page Providing Full Validation, Authentication & Authoriza
 * PHP
 * PHP (MySQLi)
 * MySQL
-.
