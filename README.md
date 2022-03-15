@@ -1,5 +1,5 @@
 # Sign Up System
-It's a Simple Sign Up Page Providing Full Validation, Authentication & Authorization for all of the Input Fields Including Name, E-Mail, Password, Gender and Website.
+It's a Non-Responsive Sign Up Page Providing Full Validation & Authentication for All of The Input Fields like Name, E-Mail, Password & Gender.
 
 # The Features
 * The Simple & Classic Design.
