@@ -1,5 +1,5 @@
 # Sign Up System
-It's a Non-Responsive Sign Up Page Providing Full Validation & Authentication for All of The Input Fields like Name, E-Mail, Password & Gender.
+It's a Non-Responsive Sign Up Page.
 
 # The Features
 * The Simple & Classic Design.
