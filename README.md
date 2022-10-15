@@ -7,9 +7,7 @@ It's a Non-Responsive Sign Up Page.
 
 # The Used Technologies
 * HTML
-* HTML5
 * CSS
-* CSS3
 * JavaScript
 * jQuery
 * PHP
