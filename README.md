@@ -1,5 +1,5 @@
 # Sign Up System
-It's a Non-Responsive Sign Up Page.
+It's a Non-Responsive Sign Up Page
 
 # The Features
 * The Simple & Classic Design.
